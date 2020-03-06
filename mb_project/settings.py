@@ -25,7 +25,7 @@ SECRET_KEY = '$ahizi-ui(ax)(ze082=8^l64kwv#@iv*t-3g4-xwdb97aaljc'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
